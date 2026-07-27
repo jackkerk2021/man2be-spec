@@ -1,4 +1,4 @@
-from events.object import ObjectEvent
+from src.events.object import ObjectEvent
 
 
 class StateEngine:
