@@ -64,7 +64,9 @@ The Reader is responsible for:
 - Maintaining reading order.
 - Passing Events to the World State Engine.
 
-  Example:
+
+
+Example:
 
 Story :  Jack picked up the flashlight.
 
