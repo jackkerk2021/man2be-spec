@@ -7,3 +7,11 @@ The World State represents the current state of the story world.
 It is continuously updated by story events.
 
 Every generated image, video, animation, dialogue, and audio must be based on the latest World State.
+
+## Principles
+
+- The World State is provider-independent.
+- The World State is continuously updated.
+- Story events modify the World State.
+- Generated content never modifies the World State directly.
+- The World State is the single source of truth.
