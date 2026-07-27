@@ -5,4 +5,3 @@ class WorldState:
         self.objects = {}
         self.locations = {}
 
-feat(state): add WorldState
