@@ -67,5 +67,20 @@ Missing Transition
 
 ----
 
+# Physical Rules
+
+Mirror Gate
+
+Closed
+
+next chapter :
+
+Jack walks through Mirror Gate.
+
+State Engine：
+
+Invalid World State
+
+----
 
 
