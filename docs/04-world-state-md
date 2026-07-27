@@ -15,3 +15,19 @@ Every generated image, video, animation, dialogue, and audio must be based on th
 - Story events modify the World State.
 - Generated content never modifies the World State directly.
 - The World State is the single source of truth.
+
+## Updated By
+
+Novel
+
+↓
+
+Reader
+
+↓
+
+Event Extractor
+
+↓
+
+World State Engine
