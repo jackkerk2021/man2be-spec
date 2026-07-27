@@ -1,4 +1,4 @@
-# Director
+# Planner
 
 work progress :
 
@@ -22,7 +22,7 @@ World State
 
 ↓
 
-Director
+Planner
 
 ↓
 
@@ -38,25 +38,25 @@ Provider
 
 ---
 
-# Director
+# Planner
 
-The Director is responsible for deciding when and what media should be generated.
+The Planner is responsible for deciding when and what media should be generated.
 
-The Director never modifies the World State.
+The Planner never modifies the World State.
 
-The Director consumes the current World State and produces Production YAML requests.
+The Planner consumes the current World State and produces Production YAML requests.
 
 # Principles
 
-The Director is stateless.
+The Planner is stateless.
 
-The Director never updates the World State.
+The Planner never updates the World State.
 
-The Director uses the current World State.
+The Planner uses the current World State.
 
-The Director decides production timing.
+The Planner decides production timing.
 
-The Director is provider-independent.
+The Planner is provider-independent.
 
 # Responsibilities
 
@@ -97,7 +97,7 @@ Standing beside Jack
 
 ---
 
-Director decide :
+Planner decide :
 
 Generate:
 
