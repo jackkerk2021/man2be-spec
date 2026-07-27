@@ -6,3 +6,5 @@ from uuid import UUID, uuid4
 class Event:
     id: UUID
     type: str
+
+feat(events): add immutable Event base class
