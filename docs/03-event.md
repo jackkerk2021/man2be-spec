@@ -95,3 +95,26 @@ PickUp
 target:
 Flashlight
 
+## Event Life Cycle
+
+Story
+
+↓
+
+Reader
+
+↓
+
+Event
+
+↓
+
+World State Update
+
+↓
+
+Production YAML
+
+↓
+
+Media Generation
