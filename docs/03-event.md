@@ -118,3 +118,8 @@ Production YAML
 ↓
 
 Media Generation
+
+
+Events describe what happened.
+
+World State describes what is true now.
