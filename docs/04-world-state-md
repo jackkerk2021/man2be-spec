@@ -31,3 +31,38 @@ Event Extractor
 ↓
 
 World State Engine
+
+## Consumed By
+
+Production YAML
+
+↓
+
+Builders
+
+↓
+
+Providers
+
+↓
+
+AI Models
+
+
+## World State Components
+
+### Characters
+
+### Objects
+
+### Locations
+
+### Environment
+
+### Timeline
+
+### Scene
+
+### Relationships
+
+### Emotions
