@@ -17,3 +17,28 @@ Only the State Engine may update the World State.
 Every update must originate from Events.
 
 Updates must preserve story continuity.
+
+---
+
+# Responsibilities
+
+Receive Events
+
+↓
+
+Validate Events
+
+↓
+
+Apply State Changes
+
+↓
+
+Resolve Conflicts
+
+↓
+
+Update World State
+
+---
+
