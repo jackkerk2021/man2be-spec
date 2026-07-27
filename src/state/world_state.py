@@ -4,3 +4,5 @@ class WorldState:
         self.characters = {}
         self.objects = {}
         self.locations = {}
+
+feat(state): add WorldState
