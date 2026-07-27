@@ -1,1 +1,9 @@
-hi
+# World State
+
+## Purpose
+
+The World State represents the current state of the story world.
+
+It is continuously updated by story events.
+
+Every generated image, video, animation, dialogue, and audio must be based on the latest World State.
