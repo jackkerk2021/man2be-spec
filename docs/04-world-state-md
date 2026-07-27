@@ -66,3 +66,5 @@ AI Models
 ### Relationships
 
 ### Emotions
+
+The World State is continuously derived from story events and serves as the single source of truth for all generated content.
