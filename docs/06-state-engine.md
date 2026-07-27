@@ -42,3 +42,30 @@ Update World State
 
 ---
 
+# Conflict Resolution
+
+World State :
+
+Jack
+
+Location:
+
+Cave
+
+next line :
+
+Jack suddenly appears at the airport.
+
+State Engine：
+
+Conflict
+
+↓
+
+Teleport?
+Missing Transition
+
+----
+
+
+
